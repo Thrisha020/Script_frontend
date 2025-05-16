@@ -1,0 +1,12 @@
+[
+    {
+        "user_query": {
+            "query_str": "System"
+        },
+        "assistant_response": {
+            "response_str": "Latest changes pulled successfully."
+        },
+        "user_query_timestamp": "2025-01-16 16:30:55",
+        "assistant_response_timestamp": "2025-01-16 16:30:55"
+    }
+]

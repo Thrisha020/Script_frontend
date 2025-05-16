@@ -1,0 +1,17 @@
+gmsmf:
+     mfip: '13.233.106.52'
+     sshport: '2022'
+     groovyzpath: '/u/gmszfs/dbb20/usr/lpp/IBM/dbb/bin/groovyz'
+     zappbuildpath: '/u/gmszfs/zAppbuild20/build.groovy'
+     
+gmsstest:
+     mfip: '13.233.106.52'
+     sshport: '2022'
+     groovyzpath: '/u/gmszfs/dbb20/usr/lpp/IBM/dbb/bin/groovyz'
+     zappbuildpath: '/u/gmszfs/zAppbuild20/build.groovy'
+     
+
+
+
+
+     

@@ -1,0 +1,12 @@
+2025-01-10 15:24:31 - Checked if /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication is a Git repository: True
+----------------------------------------
+2025-01-10 15:24:31 - Branches listed successfully in /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication.
+----------------------------------------
+2025-01-10 15:24:31 - Available branches in /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication:
+* main
+  remotes/origin/HEAD -> origin/main
+  remotes/origin/feature/test
+  remotes/origin/gmstest
+  remotes/origin/main
+  remotes/origin/testing_frontend
+----------------------------------------

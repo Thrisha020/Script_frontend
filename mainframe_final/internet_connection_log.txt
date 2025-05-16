@@ -1,0 +1,1669 @@
+2025-01-10 10:52:32 - Internet connection is available.
+Speed: 31.87 KB/s (0.03 MB/s)
+----------------------------------------
+2025-01-10 11:05:53 - Extension IBM.zopeneditor installed successfully.
+----------------------------------------
+2025-01-10 11:05:53 - Extension ms-vscode-remote.remote-ssh is already installed.
+----------------------------------------
+2025-01-10 11:30:54 - Extension IBM.zopeneditor installed successfully.
+----------------------------------------
+2025-01-10 11:30:54 - Extension ms-vscode-remote.remote-ssh is already installed.
+----------------------------------------
+2025-01-10 14:23:56 - Extension IBM.zopeneditor installed successfully.
+----------------------------------------
+2025-01-10 14:23:56 - Extension ms-vscode-remote.remote-ssh is already installed.
+----------------------------------------
+2025-01-10 14:26:29 - Repository already cloned at /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication. Pulling latest changes...
+----------------------------------------
+2025-01-10 14:26:31 - Latest changes pulled successfully.
+----------------------------------------
+2025-01-10 14:27:12 - Cloning repository from https://github.com/gmsadmin-git/MortgageApplication.git to /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication...
+----------------------------------------
+2025-01-10 14:27:14 - Repository cloned successfully to /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication.
+----------------------------------------
+2025-01-10 14:28:59 - Repository already cloned at /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication. Pulling latest changes...
+----------------------------------------
+2025-01-10 14:28:59 - Latest changes pulled successfully.
+----------------------------------------
+2025-01-10 14:30:40 - Repository already cloned at /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication. Pulling latest changes...
+----------------------------------------
+2025-01-10 14:30:42 - Latest changes pulled successfully.
+----------------------------------------
+2025-01-10 14:34:10 - Repository already cloned at /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication. Pulling latest changes...
+----------------------------------------
+2025-01-10 14:34:11 - Latest changes pulled successfully.
+----------------------------------------
+Repository already cloned at /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication. Pulling latest changes...
+----------------------------------------
+Latest changes pulled successfully.
+----------------------------------------
+2025-01-10 14:52:10 - Internet connection is available.
+Speed: 31.70 KB/s (0.03 MB/s)
+----------------------------------------
+2025-01-10 14:55:16 - Internet connection is available.
+Speed: 29.69 KB/s (0.03 MB/s)
+----------------------------------------
+Repository already cloned at /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication. Pulling latest changes...
+----------------------------------------
+Latest changes pulled successfully.
+----------------------------------------
+Repository already cloned at /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication. Pulling latest changes...
+----------------------------------------
+Latest changes pulled successfully.
+----------------------------------------
+Cloning repository from https://github.com/gmsadmin-git/MortgageApplication.git to /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication...
+----------------------------------------
+Repository cloned successfully to /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication.
+----------------------------------------
+2025-01-10 15:17:41 - Repository already cloned at /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication. Pulling latest changes...
+----------------------------------------
+2025-01-10 15:17:42 - Latest changes pulled successfully.
+----------------------------------------
+2025-01-10 15:19:38 - Cloning repository from https://github.com/gmsadmin-git/MortgageApplication.git to /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication...
+----------------------------------------
+2025-01-10 15:19:39 - Repository cloned successfully to /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication.
+----------------------------------------
+2025-01-10 15:20:27 - Internet connection is available.
+Speed: 11.69 KB/s (0.01 MB/s)
+----------------------------------------
+2025-01-10 15:21:49 - Internet connection is available.
+Speed: 30.44 KB/s (0.03 MB/s)
+----------------------------------------
+2025-01-10 15:27:43 - Checked if /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication is a Git repository: True
+----------------------------------------
+2025-01-10 15:27:43 - Branches listed successfully in /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication.
+----------------------------------------
+2025-01-10 15:27:43 - Available branches in /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication:
+* main
+  remotes/origin/HEAD -> origin/main
+  remotes/origin/feature/test
+  remotes/origin/gmstest
+  remotes/origin/main
+  remotes/origin/testing_frontend
+----------------------------------------
+2025-01-10 15:42:54 - Checked if /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication is a Git repository: False
+----------------------------------------
+2025-01-10 15:42:54 - Error: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication is not a valid Git repository.
+----------------------------------------
+2025-01-10 15:43:05 - Cloning repository from https://github.com/gmsadmin-git/MortgageApplication.git to /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication...
+----------------------------------------
+2025-01-10 15:43:07 - Repository cloned successfully to /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication.
+----------------------------------------
+2025-01-10 15:43:14 - Checked if /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication is a Git repository: True
+----------------------------------------
+2025-01-10 15:43:14 - Checked out branch 'remotes/origin/feature/test'.
+----------------------------------------
+2025-01-10 16:03:31 - Checked if /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication is a Git repository: True
+----------------------------------------
+2025-01-10 16:03:31 - Checked out branch 'remotes/origin/feature/test'.
+----------------------------------------
+2025-01-10 16:04:16 - Repository already cloned at /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication. Pulling latest changes...
+----------------------------------------
+2025-01-10 16:04:17 - Error pulling latest changes: Command '['git', '-C', '/Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication', 'pull']' returned non-zero exit status 1.
+----------------------------------------
+2025-01-10 16:05:45 - Cloning repository from https://github.com/gmsadmin-git/MortgageApplication.git to /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication...
+----------------------------------------
+2025-01-10 16:05:46 - Repository cloned successfully to /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication.
+----------------------------------------
+2025-01-10 16:47:16 - Starting process for repository: MortgageApplication at https://github.com/ratnamGT
+----------------------------------------
+2025-01-10 16:47:16 - Local repository path: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication
+----------------------------------------
+2025-01-10 16:47:16 - Checking if /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication is a valid Git repository.
+----------------------------------------
+2025-01-10 16:47:16 - /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication is a valid Git repository.
+----------------------------------------
+2025-01-10 16:47:16 - Creating and switching to new branch: MortApp
+----------------------------------------
+2025-01-10 16:47:16 - Error creating new branch 'MortApp': Command '['git', '-C', '/Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication', 'checkout', '-b', 'MortApp']' returned non-zero exit status 128.
+----------------------------------------
+2025-01-10 16:47:39 - Starting process for repository: MortgageApplication at https://github.com/ratnamGT
+----------------------------------------
+2025-01-10 16:47:39 - Local repository path: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication
+----------------------------------------
+2025-01-10 16:47:39 - Checking if /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication is a valid Git repository.
+----------------------------------------
+2025-01-10 16:47:39 - /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication is a valid Git repository.
+----------------------------------------
+2025-01-10 16:47:39 - Creating and switching to new branch: MortAppp
+----------------------------------------
+2025-01-10 16:47:39 - Successfully created and switched to new branch: MortAppp
+----------------------------------------
+2025-01-10 16:47:39 - Pushing branch 'MortAppp' to remote repository.
+----------------------------------------
+2025-01-10 16:47:40 - Branch 'MortAppp' pushed to remote repository successfully.
+----------------------------------------
+2025-01-10 16:52:47 - Starting process for repository: MortgageApplication at https://github.com/gmsadmin-git
+----------------------------------------
+2025-01-10 16:52:47 - Local repository path: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication
+----------------------------------------
+2025-01-10 16:52:47 - Searching for file 'hello.cbl' in repository '/Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication'
+----------------------------------------
+2025-01-10 16:52:47 - File found: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-01-10 16:52:47 - Attempting to open file in VSCode: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-01-10 16:52:47 - File opened successfully in VSCode: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-01-10 16:52:47 - Successfully opened: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-01-10 17:10:21 - Starting process for repository: MortgageApplication
+----------------------------------------
+2025-01-10 17:10:21 - Repository MortgageApplication already exists at /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication
+----------------------------------------
+2025-01-10 17:10:21 - Searching for file 'harish.cbl' in repository '/Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication'
+----------------------------------------
+2025-01-10 17:10:21 - File 'harish.cbl' not found in repository '/Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication'
+----------------------------------------
+2025-01-10 17:10:21 - File harish.cbl not found. Created new file at /Users/thrisham/Desktop/cobol_code/mainframe_final/harish.cbl
+----------------------------------------
+2025-01-10 17:10:21 - Attempting to open file in VSCode: /Users/thrisham/Desktop/cobol_code/mainframe_final/harish.cbl
+----------------------------------------
+2025-01-10 17:10:21 - File opened successfully in VSCode: /Users/thrisham/Desktop/cobol_code/mainframe_final/harish.cbl
+----------------------------------------
+2025-01-10 17:12:05 - Starting process for repository: MortgageApplication
+----------------------------------------
+2025-01-10 17:12:05 - Repository MortgageApplication already exists at /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication
+----------------------------------------
+2025-01-10 17:12:05 - Searching for file 'harishh.cbl' in repository '/Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication'
+----------------------------------------
+2025-01-10 17:12:05 - File 'harishh.cbl' not found in repository '/Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication'
+----------------------------------------
+2025-01-10 17:12:05 - File harishh.cbl not found. Created new file at /Users/thrisham/Desktop/cobol_code/mainframe_final/harishh.cbl
+----------------------------------------
+2025-01-10 17:12:05 - Attempting to open file in VSCode: /Users/thrisham/Desktop/cobol_code/mainframe_final/harishh.cbl
+----------------------------------------
+2025-01-10 17:12:05 - File opened successfully in VSCode: /Users/thrisham/Desktop/cobol_code/mainframe_final/harishh.cbl
+----------------------------------------
+2025-01-10 17:25:01 - Starting process for repository: MortgageApplication
+----------------------------------------
+2025-01-10 17:25:01 - Repository MortgageApplication already exists at /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication
+----------------------------------------
+2025-01-10 17:25:01 - Searching for file 'hello.cbl' in repository '/Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication'
+----------------------------------------
+2025-01-10 17:25:01 - File found: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-01-10 17:25:01 - File hello.cbl found in repository
+----------------------------------------
+2025-01-10 17:25:01 - Checking for uncommitted changes
+----------------------------------------
+2025-01-10 17:25:01 - Staging and committing changes
+----------------------------------------
+2025-01-10 17:25:03 - Changes pushed to the remote repository successfully
+----------------------------------------
+2025-01-11 11:06:07 - SSH connection failed: [Errno 60] Operation timed out
+----------------------------------------
+2025-01-11 11:07:58 - SSH connection failed: [Errno 60] Operation timed out
+----------------------------------------
+2025-01-11 12:23:15 - Starting process for repository: MortgageApplication at https://github.com/gmsadmin-git
+----------------------------------------
+2025-01-11 12:23:15 - Local repository path: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication
+----------------------------------------
+2025-01-11 12:23:15 - Checking if /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication is a valid Git repository.
+----------------------------------------
+2025-01-11 12:23:15 - /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication is a valid Git repository.
+----------------------------------------
+2025-01-11 12:23:15 - Creating and switching to new branch: MortAppp
+----------------------------------------
+2025-01-11 12:23:15 - Error creating new branch 'MortAppp': Command '['git', '-C', '/Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication', 'checkout', '-b', 'MortAppp']' returned non-zero exit status 128.
+----------------------------------------
+2025-01-11 12:23:39 - Starting process for repository: MortgageApplication at https://github.com/gmsadmin-git
+----------------------------------------
+2025-01-11 12:23:39 - Local repository path: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication
+----------------------------------------
+2025-01-11 12:23:39 - Checking if /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication is a valid Git repository.
+----------------------------------------
+2025-01-11 12:23:39 - /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication is a valid Git repository.
+----------------------------------------
+2025-01-11 12:23:39 - Creating and switching to new branch: MortApplica
+----------------------------------------
+2025-01-11 12:23:39 - Successfully created and switched to new branch: MortApplica
+----------------------------------------
+2025-01-11 12:23:39 - Pushing branch 'MortApplica' to remote repository.
+----------------------------------------
+2025-01-11 12:23:41 - Branch 'MortApplica' pushed to remote repository successfully.
+----------------------------------------
+2025-01-11 14:14:00 - Starting process for repository: MortgageApplication at https://github.com/gmsadmin-git
+----------------------------------------
+2025-01-11 14:14:00 - Local repository path: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication
+----------------------------------------
+2025-01-11 14:14:00 - Checking if /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication is a valid Git repository.
+----------------------------------------
+2025-01-11 14:14:00 - /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication is a valid Git repository.
+----------------------------------------
+2025-01-11 14:14:00 - Creating and switching to new branch: BankApp
+----------------------------------------
+2025-01-11 14:14:00 - Successfully created and switched to new branch: BankApp
+----------------------------------------
+2025-01-11 14:14:00 - Pushing branch 'BankApp' to remote repository.
+----------------------------------------
+2025-01-11 14:14:02 - Branch 'BankApp' pushed to remote repository successfully.
+----------------------------------------
+2025-01-11 14:22:38 - Starting process for repository: MortgageApplication
+----------------------------------------
+2025-01-11 14:22:38 - Repository MortgageApplication already exists at /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication
+----------------------------------------
+2025-01-11 14:22:38 - Searching for file 'hello.cbl' in repository '/Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication'
+----------------------------------------
+2025-01-11 14:22:38 - File found: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-01-11 14:22:38 - File hello.cbl found in repository
+----------------------------------------
+2025-01-11 14:22:38 - Checking for uncommitted changes
+----------------------------------------
+2025-01-11 14:22:38 - Staging and committing changes
+----------------------------------------
+2025-01-11 14:22:40 - Changes pushed to the remote repository successfully
+----------------------------------------
+2025-01-11 14:25:31 - Checked if /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication is a Git repository: True
+----------------------------------------
+2025-01-11 14:25:31 - Checked out branch 'remotes/origin/feature/test'.
+----------------------------------------
+2025-01-11 15:01:56 - Checked if /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication is a Git repository: True
+----------------------------------------
+2025-01-11 15:01:56 - Checked out branch 'jan_11_testing'.
+----------------------------------------
+2025-01-11 15:20:43 - Starting process for repository: MortgageApplication
+----------------------------------------
+2025-01-11 15:20:43 - Repository MortgageApplication already exists at /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication
+----------------------------------------
+2025-01-11 15:20:43 - Searching for file 'hello.cbl' in repository '/Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication'
+----------------------------------------
+2025-01-11 15:20:43 - File found: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-01-11 15:20:43 - File hello.cbl found in repository
+----------------------------------------
+2025-01-11 15:20:43 - Checking for uncommitted changes
+----------------------------------------
+2025-01-11 15:20:43 - Staging and committing changes
+----------------------------------------
+2025-01-11 15:20:44 - Changes pushed to the remote repository successfully
+----------------------------------------
+2025-01-16 15:15:24 - Repository already cloned at /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication. Pulling latest changes...
+----------------------------------------
+2025-01-16 15:15:25 - Latest changes pulled successfully.
+----------------------------------------
+2025-01-16 15:20:09 - Repository already cloned at /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication. Pulling latest changes...
+----------------------------------------
+2025-01-16 15:20:10 - Latest changes pulled successfully.
+----------------------------------------
+2025-01-16 15:22:10 - Repository already cloned at /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication. Pulling latest changes...
+----------------------------------------
+2025-01-16 15:22:11 - Latest changes pulled successfully.
+----------------------------------------
+2025-01-16 16:30:55 - Latest changes pulled successfully.
+----------------------------------------
+2025-01-21 15:14:21 - Starting process for repository: MortgageApplication
+----------------------------------------
+2025-01-21 15:14:21 - Repository MortgageApplication already exists at /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication
+----------------------------------------
+2025-01-21 15:14:21 - Searching for file 'hello.cbl' in repository '/Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication'
+----------------------------------------
+2025-01-21 15:14:21 - File found: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-01-21 15:14:21 - File hello.cbl found in repository
+----------------------------------------
+2025-01-21 15:14:21 - Checking for untracked files
+----------------------------------------
+2025-01-21 15:14:21 - Staging all changes
+----------------------------------------
+2025-01-21 15:14:21 - Staging and committing changes
+----------------------------------------
+2025-01-21 15:14:22 - Changes pushed to the remote repository successfully
+----------------------------------------
+2025-01-21 15:42:03 - Checked if /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication is a Git repository: True
+----------------------------------------
+2025-01-21 15:42:03 - Branches listed successfully in /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication.
+----------------------------------------
+2025-01-21 15:42:03 - Available branches in /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication:
+* main
+  remotes/origin/BankApp
+  remotes/origin/HEAD -> origin/main
+  remotes/origin/MortApp
+  remotes/origin/MortApplica
+  remotes/origin/MortAppp
+  remotes/origin/automation_mainframe_testing
+  remotes/origin/bhava_testing_1
+  remotes/origin/feature/test
+  remotes/origin/frontend_testing
+  remotes/origin/gmstest
+  remotes/origin/jan11
+  remotes/origin/jan_11_testing
+  remotes/origin/main
+  remotes/origin/office
+  remotes/origin/ragu/new
+  remotes/origin/ragu/remote
+  remotes/origin/ragu/testjan11
+  remotes/origin/remote/jan_21
+  remotes/origin/testing_frontend
+  remotes/origin/tharun
+  remotes/origin/trisha_bhava
+----------------------------------------
+2025-01-21 15:42:42 - Checked if /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication is a Git repository: True
+----------------------------------------
+2025-01-21 15:42:42 - Checked out branch 'remotes/origin/MortApp'.
+----------------------------------------
+2025-01-21 15:43:04 - Starting process for repository: MortgageApplication at https://github.com/gmsadmin-git
+----------------------------------------
+2025-01-21 15:43:04 - Local repository path: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication
+----------------------------------------
+2025-01-21 15:43:04 - Searching for file 'hello.cbl' in repository '/Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication'
+----------------------------------------
+2025-01-21 15:43:04 - File found: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-01-21 15:43:04 - Attempting to open file in VSCode: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-01-21 15:43:05 - File opened successfully in VSCode: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-01-21 15:43:05 - Successfully opened: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-01-21 15:44:03 - Starting process for repository: MortgageApplication
+----------------------------------------
+2025-01-21 15:44:03 - Repository MortgageApplication already exists at /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication
+----------------------------------------
+2025-01-21 15:44:03 - Searching for file 'hello.cbl' in repository '/Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication'
+----------------------------------------
+2025-01-21 15:44:03 - File found: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-01-21 15:44:03 - File hello.cbl found in repository
+----------------------------------------
+2025-01-21 15:44:03 - Checking for untracked files
+----------------------------------------
+2025-01-21 15:44:03 - Staging all changes
+----------------------------------------
+2025-01-21 15:44:03 - Staging and committing changes
+----------------------------------------
+2025-01-21 15:44:03 - Error during Git operations: Command '['git', '-C', '/Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication', 'push']' returned non-zero exit status 128.
+----------------------------------------
+2025-01-21 15:50:30 - Starting process for repository: MortgageApplication
+----------------------------------------
+2025-01-21 15:50:30 - Repository MortgageApplication already exists at /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication
+----------------------------------------
+2025-01-21 15:50:30 - Searching for file 'hello.cbl' in repository '/Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication'
+----------------------------------------
+2025-01-21 15:50:30 - File found: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-01-21 15:50:30 - File hello.cbl found in repository
+----------------------------------------
+2025-01-21 15:50:30 - Repository is in a detached HEAD state.
+----------------------------------------
+2025-01-21 15:50:30 - Switched to a new branch: fix-detached-head
+----------------------------------------
+2025-01-21 15:50:30 - Checking for untracked files
+----------------------------------------
+2025-01-21 15:50:30 - Staging all changes
+----------------------------------------
+2025-01-21 15:50:30 - Staging and committing changes
+----------------------------------------
+2025-01-21 15:50:30 - Committing changes with message: frontEnd
+----------------------------------------
+2025-01-21 15:50:30 - Pushing changes to the remote repository
+----------------------------------------
+2025-01-21 15:50:32 - Changes pushed to the remote repository successfully
+----------------------------------------
+2025-01-21 15:59:37 - Starting process for repository: MortgageApplication
+----------------------------------------
+2025-01-21 15:59:37 - Repository MortgageApplication already exists at /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication
+----------------------------------------
+2025-01-21 15:59:37 - Searching for file 'hello.cbl' in repository '/Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication'
+----------------------------------------
+2025-01-21 15:59:37 - File found: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-01-21 15:59:37 - File hello.cbl found in repository
+----------------------------------------
+2025-01-21 15:59:37 - Currently on branch: fix-detached-head
+----------------------------------------
+2025-01-21 15:59:37 - Checking for untracked files
+----------------------------------------
+2025-01-21 15:59:37 - Staging all changes
+----------------------------------------
+2025-01-21 15:59:37 - Staging and committing changes
+----------------------------------------
+2025-01-21 15:59:37 - Committing changes with message: frontEnd
+----------------------------------------
+2025-01-21 15:59:37 - Pushing changes to the remote repository
+----------------------------------------
+2025-01-21 15:59:39 - Changes pushed to the remote repository successfully
+----------------------------------------
+2025-01-21 16:03:05 - Starting process for repository: MortgageApplication
+----------------------------------------
+2025-01-21 16:03:05 - Repository MortgageApplication already exists at /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication
+----------------------------------------
+2025-01-21 16:03:05 - Searching for file 'hello.cbl' in repository '/Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication'
+----------------------------------------
+2025-01-21 16:03:05 - File found: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-01-21 16:03:05 - File hello.cbl found in repository
+----------------------------------------
+2025-01-21 16:03:05 - Checking for untracked files
+----------------------------------------
+2025-01-21 16:03:05 - Staging all changes
+----------------------------------------
+2025-01-21 16:03:05 - Staging and committing changes
+----------------------------------------
+2025-01-21 16:03:05 - Error during Git operations: Command '['git', '-C', '/Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication', 'push']' returned non-zero exit status 128.
+----------------------------------------
+2025-01-21 16:04:21 - Starting process for repository: MortgageApplication
+----------------------------------------
+2025-01-21 16:04:21 - Repository MortgageApplication already exists at /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication
+----------------------------------------
+2025-01-21 16:04:21 - Searching for file 'hello.cbl' in repository '/Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication'
+----------------------------------------
+2025-01-21 16:04:21 - File found: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-01-21 16:04:21 - File hello.cbl found in repository
+----------------------------------------
+2025-01-21 16:04:21 - Checking for untracked files
+----------------------------------------
+2025-01-21 16:04:21 - No changes to stage
+----------------------------------------
+2025-01-21 16:04:32 - Starting process for repository: MortgageApplication
+----------------------------------------
+2025-01-21 16:04:32 - Repository MortgageApplication already exists at /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication
+----------------------------------------
+2025-01-21 16:04:32 - Searching for file 'hello.cbl' in repository '/Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication'
+----------------------------------------
+2025-01-21 16:04:32 - File found: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-01-21 16:04:32 - File hello.cbl found in repository
+----------------------------------------
+2025-01-21 16:04:32 - Checking for untracked files
+----------------------------------------
+2025-01-21 16:04:32 - Staging all changes
+----------------------------------------
+2025-01-21 16:04:32 - Staging and committing changes
+----------------------------------------
+2025-01-21 16:04:32 - Error during Git operations: Command '['git', '-C', '/Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication', 'push']' returned non-zero exit status 128.
+----------------------------------------
+2025-01-21 16:31:37 - Starting process for repository: MortgageApplication
+----------------------------------------
+2025-01-21 16:31:37 - Repository MortgageApplication already exists at /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication
+----------------------------------------
+2025-01-21 16:31:37 - Searching for file 'hello.cbl' in repository '/Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication'
+----------------------------------------
+2025-01-21 16:31:37 - File found: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-01-21 16:31:37 - File hello.cbl found in repository
+----------------------------------------
+2025-01-21 16:31:37 - Currently on branch: main
+----------------------------------------
+2025-01-21 16:31:37 - Checking for untracked files
+----------------------------------------
+2025-01-21 16:31:37 - Staging all changes
+----------------------------------------
+2025-01-21 16:31:37 - Staging and committing changes
+----------------------------------------
+2025-01-21 16:31:37 - Committing changes with message: frontEnd
+----------------------------------------
+2025-01-21 16:31:37 - Pushing changes to the remote repository
+----------------------------------------
+2025-01-21 16:31:38 - Changes pushed to the remote repository successfully
+----------------------------------------
+2025-01-21 16:56:07 - Starting process for repository: MortgageApplication
+----------------------------------------
+2025-01-21 16:56:07 - Repository MortgageApplication already exists at /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication
+----------------------------------------
+2025-01-21 16:56:07 - Searching for file 'hello.cbl' in repository '/Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication'
+----------------------------------------
+2025-01-21 16:56:07 - File found: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-01-21 16:56:07 - File hello.cbl found in repository
+----------------------------------------
+2025-01-21 16:56:07 - Currently on branch: main
+----------------------------------------
+2025-01-21 16:56:07 - Checking for untracked files
+----------------------------------------
+2025-01-21 16:56:07 - No changes to stage
+----------------------------------------
+2025-01-22 13:19:26 - Repository already cloned at /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication. Pulling latest changes...
+----------------------------------------
+2025-01-22 13:19:27 - Latest changes pulled successfully.
+----------------------------------------
+2025-01-22 13:20:32 - Repository already cloned at /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication. Pulling latest changes...
+----------------------------------------
+2025-01-22 13:20:32 - Latest changes pulled successfully.
+----------------------------------------
+2025-01-22 13:21:56 - Repository already cloned at /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication. Pulling latest changes...
+----------------------------------------
+2025-01-22 13:21:57 - Latest changes pulled successfully.
+----------------------------------------
+2025-01-22 13:25:57 - Repository already cloned at /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication. Pulling latest changes...
+----------------------------------------
+2025-01-22 13:25:58 - Latest changes pulled successfully.
+----------------------------------------
+2025-01-22 13:25:58 - Starting process for repository: MortgageApplication at https://github.com/Thrisha020/
+----------------------------------------
+2025-01-22 13:25:58 - Local repository path: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication
+----------------------------------------
+2025-01-22 13:25:58 - Searching for file 'hello.cbl' in repository '/Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication'
+----------------------------------------
+2025-01-22 13:25:58 - File found: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-01-22 13:25:58 - File located: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/cobol/hello.cbl. Attempting to open in VSCode.
+----------------------------------------
+2025-01-22 13:25:58 - Attempting to open file in VSCode: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-01-22 13:25:58 - File opened successfully in VSCode: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-01-22 13:25:58 - Successfully opened: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-01-22 17:51:18 - Repository already cloned at /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication. Pulling latest changes...
+----------------------------------------
+2025-01-22 17:51:19 - Latest changes pulled successfully.
+----------------------------------------
+2025-01-22 17:51:19 - Starting process for repository: MortgageApplication at https://github.com/Thrisha020/
+----------------------------------------
+2025-01-22 17:51:19 - Local repository path: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication
+----------------------------------------
+2025-01-22 17:51:19 - Searching for file 'hello.cbl' in repository '/Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication'
+----------------------------------------
+2025-01-22 17:51:19 - File found: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-01-22 17:51:19 - File located: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/cobol/hello.cbl. Attempting to open in VSCode.
+----------------------------------------
+2025-01-22 17:51:19 - Attempting to open file in VSCode: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-01-22 17:51:20 - File opened successfully in VSCode: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-01-22 17:51:20 - Successfully opened: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-01-22 19:37:52 - Repository already cloned at /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication. Pulling latest changes...
+----------------------------------------
+2025-01-22 19:37:53 - Latest changes pulled successfully.
+----------------------------------------
+2025-01-22 19:37:53 - Starting process for repository: MortgageApplication at https://github.com/Thrisha020/
+----------------------------------------
+2025-01-22 19:37:53 - Local repository path: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication
+----------------------------------------
+2025-01-22 19:37:53 - Searching for file 'hello.cbl' in repository '/Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication'
+----------------------------------------
+2025-01-22 19:37:53 - File found: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-01-22 19:37:53 - File located: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/cobol/hello.cbl. Attempting to open in VSCode.
+----------------------------------------
+2025-01-22 19:37:53 - Attempting to open file in VSCode: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-01-22 19:37:53 - File opened successfully in VSCode: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-01-22 19:37:53 - Successfully opened: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-01-23 09:50:56 - Cloning repository from https://github.com/Thrisha020//gmsadmin-git/MortgageApplication.git to /Users/thrisham/Desktop/cobol_code/mainframe_final/gmsadmin-git/MortgageApplication...
+----------------------------------------
+2025-01-23 09:50:57 - Error cloning repository: Command '['git', 'clone', 'https://github.com/Thrisha020//gmsadmin-git/MortgageApplication.git', '/Users/thrisham/Desktop/cobol_code/mainframe_final/gmsadmin-git/MortgageApplication']' returned non-zero exit status 128.
+----------------------------------------
+2025-01-23 09:50:57 - Folder '/Users/thrisham/Desktop/cobol_code/mainframe_final/gmsadmin-git/MortgageApplication' exists but is not a git repository.
+----------------------------------------
+2025-01-23 09:51:57 - Cloning repository from https://github.com/Thrisha020//gmsadmin-git/MortgageApplication.git to /Users/thrisham/Desktop/cobol_code/mainframe_final/gmsadmin-git/MortgageApplication...
+----------------------------------------
+2025-01-23 09:51:58 - Error cloning repository: Command '['git', 'clone', 'https://github.com/Thrisha020//gmsadmin-git/MortgageApplication.git', '/Users/thrisham/Desktop/cobol_code/mainframe_final/gmsadmin-git/MortgageApplication']' returned non-zero exit status 128.
+----------------------------------------
+2025-01-23 09:51:58 - Folder '/Users/thrisham/Desktop/cobol_code/mainframe_final/gmsadmin-git/MortgageApplication' exists but is not a git repository.
+----------------------------------------
+2025-01-23 09:51:58 - Starting process for repository: gmsadmin-git/MortgageApplication at https://github.com/Thrisha020/
+----------------------------------------
+2025-01-23 09:51:58 - Local repository path: /Users/thrisham/Desktop/cobol_code/mainframe_final/gmsadmin-git/MortgageApplication
+----------------------------------------
+2025-01-23 09:51:58 - Searching for file 'hello.cbl' in repository '/Users/thrisham/Desktop/cobol_code/mainframe_final/gmsadmin-git/MortgageApplication'
+----------------------------------------
+2025-01-23 09:51:58 - File 'hello.cbl' not found in repository '/Users/thrisham/Desktop/cobol_code/mainframe_final/gmsadmin-git/MortgageApplication'
+----------------------------------------
+2025-01-23 09:51:58 - File 'hello.cbl' not found in repository 'gmsadmin-git/MortgageApplication'.
+----------------------------------------
+2025-01-23 09:58:41 - Cloning repository from https://github.com/Thrisha020//gmsadmin-git/MortgageApplication.git to /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication...
+----------------------------------------
+2025-01-23 09:58:42 - Error cloning repository: Command '['git', 'clone', 'https://github.com/Thrisha020//gmsadmin-git/MortgageApplication.git', '/Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication']' returned non-zero exit status 128.
+----------------------------------------
+2025-01-23 09:58:42 - Folder '/Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication' exists but is not a git repository.
+----------------------------------------
+2025-01-23 09:58:42 - Starting process for repository: gmsadmin-git/MortgageApplication at https://github.com/Thrisha020/
+----------------------------------------
+2025-01-23 09:58:42 - Local repository path: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication
+----------------------------------------
+2025-01-23 09:58:42 - Searching for file 'hello.cbl' in repository '/Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication'
+----------------------------------------
+2025-01-23 09:58:42 - File 'hello.cbl' not found in repository '/Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication'
+----------------------------------------
+2025-01-23 09:58:42 - File 'hello.cbl' not found in repository 'gmsadmin-git/MortgageApplication'.
+----------------------------------------
+2025-01-23 10:02:19 - Cloning repository from https://github.com/Thrisha020//MortgageApplication.git to /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication...
+----------------------------------------
+2025-01-23 10:02:20 - Repository cloned successfully to /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication.
+----------------------------------------
+2025-01-23 10:02:20 - Repository already cloned at /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication. Pulling latest changes...
+----------------------------------------
+2025-01-23 10:02:21 - Latest changes pulled successfully.
+----------------------------------------
+2025-01-23 10:02:21 - Starting process for repository: MortgageApplication at https://github.com/Thrisha020/
+----------------------------------------
+2025-01-23 10:02:21 - Local repository path: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication
+----------------------------------------
+2025-01-23 10:02:21 - Searching for file 'hello.cbl' in repository '/Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication'
+----------------------------------------
+2025-01-23 10:02:21 - File found: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-01-23 10:02:21 - File located: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/MortgageApplication/cobol/hello.cbl. Attempting to open in VSCode.
+----------------------------------------
+2025-01-23 10:02:21 - Attempting to open file in VSCode: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-01-23 10:02:21 - File opened successfully in VSCode: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-01-23 10:02:21 - Successfully opened: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-01-23 12:07:11 - Repository already cloned at /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication. Pulling latest changes...
+----------------------------------------
+2025-01-23 12:07:12 - Latest changes pulled successfully.
+----------------------------------------
+2025-01-23 12:07:12 - Starting process for repository: MortgageApplication at https://github.com/Thrisha020/
+----------------------------------------
+2025-01-23 12:07:12 - Local repository path: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication
+----------------------------------------
+2025-01-23 12:07:12 - Searching for file 'hello.cbl' in repository '/Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication'
+----------------------------------------
+2025-01-23 12:07:12 - File found: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-01-23 12:07:12 - File located: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/MortgageApplication/cobol/hello.cbl. Attempting to open in VSCode.
+----------------------------------------
+2025-01-23 12:07:12 - Attempting to open file in VSCode: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-01-23 12:07:12 - File opened successfully in VSCode: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-01-23 12:07:12 - Successfully opened: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-01-23 12:08:04 - Repository already cloned at /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication. Pulling latest changes...
+----------------------------------------
+2025-01-23 12:08:05 - Latest changes pulled successfully.
+----------------------------------------
+2025-01-23 12:08:05 - Starting process for repository: MortgageApplication at https://github.com/Thrisha020/
+----------------------------------------
+2025-01-23 12:08:05 - Local repository path: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication
+----------------------------------------
+2025-01-23 12:08:05 - Searching for file 'hello.cbl' in repository '/Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication'
+----------------------------------------
+2025-01-23 12:08:05 - File found: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-01-23 12:08:05 - File located: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/MortgageApplication/cobol/hello.cbl. Attempting to open in VSCode.
+----------------------------------------
+2025-01-23 12:08:05 - Attempting to open file in VSCode: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-01-23 12:08:05 - File opened successfully in VSCode: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-01-23 12:08:05 - Successfully opened: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-01-24 12:52:52 - Repository already cloned at /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication. Pulling latest changes...
+----------------------------------------
+2025-01-24 12:52:54 - Latest changes pulled successfully.
+----------------------------------------
+2025-01-24 12:52:54 - Starting process for repository: MortgageApplication at https://github.com/Thrisha020/
+----------------------------------------
+2025-01-24 12:52:54 - Local repository path: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication
+----------------------------------------
+2025-01-24 12:52:54 - Searching for file 'hello.cbl' in repository '/Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication'
+----------------------------------------
+2025-01-24 12:52:54 - File found: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-01-24 12:52:54 - File located: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/MortgageApplication/cobol/hello.cbl. Attempting to open in VSCode.
+----------------------------------------
+2025-01-24 12:52:54 - Attempting to open file in VSCode: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-01-24 12:52:54 - File opened successfully in VSCode: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-01-24 12:52:54 - None
+----------------------------------------
+2025-01-24 13:07:28 - Extension IBM.zopeneditor is not installed. Installing...
+----------------------------------------
+2025-01-24 13:07:29 - Extension ms-vscode-remote.remote-ssh is already installed.
+----------------------------------------
+2025-01-24 13:07:29 - Cloning repository from https://github.com/Thrisha020//gmsadmin-git/MortgageApplication.git to /Users/thrisham/Desktop/cobol_code/mainframe_final/gmsadmin-git/MortgageApplication...
+----------------------------------------
+2025-01-24 13:07:30 - Error cloning repository: Command '['git', 'clone', 'https://github.com/Thrisha020//gmsadmin-git/MortgageApplication.git', '/Users/thrisham/Desktop/cobol_code/mainframe_final/gmsadmin-git/MortgageApplication']' returned non-zero exit status 128.
+----------------------------------------
+2025-01-24 13:07:30 - Folder '/Users/thrisham/Desktop/cobol_code/mainframe_final/gmsadmin-git/MortgageApplication' exists but is not a git repository.
+----------------------------------------
+2025-01-24 13:07:46 - Operation canceled for folder '/Users/thrisham/Desktop/cobol_code/mainframe_final/gmsadmin-git/MortgageApplication'.
+----------------------------------------
+2025-01-24 13:07:46 - Re-cloning repository from https://github.com/Thrisha020//gmsadmin-git/MortgageApplication.git to /Users/thrisham/Desktop/cobol_code/mainframe_final/gmsadmin-git/MortgageApplication...
+----------------------------------------
+2025-01-24 13:07:46 - Error cloning repository: Command '['git', 'clone', 'https://github.com/Thrisha020//gmsadmin-git/MortgageApplication.git', '/Users/thrisham/Desktop/cobol_code/mainframe_final/gmsadmin-git/MortgageApplication']' returned non-zero exit status 128.
+----------------------------------------
+2025-01-24 13:07:46 - Searching for file 'hello.cbl' in repository '/Users/thrisham/Desktop/cobol_code/mainframe_final/gmsadmin-git/MortgageApplication'
+----------------------------------------
+2025-01-24 13:07:46 - File 'hello.cbl' not found in repository '/Users/thrisham/Desktop/cobol_code/mainframe_final/gmsadmin-git/MortgageApplication'
+----------------------------------------
+2025-01-24 13:07:46 - File located: File 'hello.cbl' not found in repository '/Users/thrisham/Desktop/cobol_code/mainframe_final/gmsadmin-git/MortgageApplication'. Attempting to open in VSCode.
+----------------------------------------
+2025-01-24 13:07:46 - Attempting to open file in VSCode: File 'hello.cbl' not found in repository '/Users/thrisham/Desktop/cobol_code/mainframe_final/gmsadmin-git/MortgageApplication'
+----------------------------------------
+2025-01-24 13:07:46 - File opened successfully in VSCode: File 'hello.cbl' not found in repository '/Users/thrisham/Desktop/cobol_code/mainframe_final/gmsadmin-git/MortgageApplication'
+----------------------------------------
+2025-01-24 13:11:06 - Extension IBM.zopeneditor is not installed. Installing...
+----------------------------------------
+2025-01-24 13:11:08 - Extension ms-vscode-remote.remote-ssh is already installed.
+----------------------------------------
+2025-01-24 13:11:08 - Cloning repository from https://github.com/Thrisha020//gmsadmin-git/MortgageApplication.git to /Users/thrisham/Desktop/cobol_code/mainframe_final/gmsadmin-git/MortgageApplication...
+----------------------------------------
+2025-01-24 13:11:09 - Error cloning repository: Command '['git', 'clone', 'https://github.com/Thrisha020//gmsadmin-git/MortgageApplication.git', '/Users/thrisham/Desktop/cobol_code/mainframe_final/gmsadmin-git/MortgageApplication']' returned non-zero exit status 128.
+----------------------------------------
+2025-01-24 13:11:09 - Folder '/Users/thrisham/Desktop/cobol_code/mainframe_final/gmsadmin-git/MortgageApplication' exists but is not a git repository.
+----------------------------------------
+2025-01-24 13:11:09 - Searching for file 'hello.cbl' in repository '/Users/thrisham/Desktop/cobol_code/mainframe_final/gmsadmin-git/MortgageApplication'
+----------------------------------------
+2025-01-24 13:11:09 - File 'hello.cbl' not found in repository '/Users/thrisham/Desktop/cobol_code/mainframe_final/gmsadmin-git/MortgageApplication'
+----------------------------------------
+2025-01-24 13:11:09 - File located: File 'hello.cbl' not found in repository '/Users/thrisham/Desktop/cobol_code/mainframe_final/gmsadmin-git/MortgageApplication'. Attempting to open in VSCode.
+----------------------------------------
+2025-01-24 13:11:09 - Attempting to open file in VSCode: File 'hello.cbl' not found in repository '/Users/thrisham/Desktop/cobol_code/mainframe_final/gmsadmin-git/MortgageApplication'
+----------------------------------------
+2025-01-24 13:11:09 - File opened successfully in VSCode: File 'hello.cbl' not found in repository '/Users/thrisham/Desktop/cobol_code/mainframe_final/gmsadmin-git/MortgageApplication'
+----------------------------------------
+2025-01-27 10:20:29 - Installing extension: IBM.zopeneditor
+----------------------------------------
+2025-01-27 10:20:30 - Extension IBM.zopeneditor installed successfully.
+----------------------------------------
+2025-01-27 10:20:30 - Extension ms-vscode-remote.remote-ssh is already installed.
+----------------------------------------
+2025-01-27 10:20:30 - Error cloning repository: Command '['git', 'clone', 'https://github.com/Thrisha020//gmsadmin-git/MortgageApplication.git', '/Users/thrisham/Desktop/cobol_code/mainframe_final/gmsadmin-git/MortgageApplication']' returned non-zero exit status 128.
+----------------------------------------
+2025-01-27 10:20:30 - Folder '/Users/thrisham/Desktop/cobol_code/mainframe_final/gmsadmin-git/MortgageApplication' exists but is not a git repository.
+----------------------------------------
+2025-01-27 10:20:30 - Searching for file 'hello.cbl' in repository '/Users/thrisham/Desktop/cobol_code/mainframe_final/gmsadmin-git/MortgageApplication'
+----------------------------------------
+2025-01-27 10:20:30 - File 'hello.cbl' not found in repository '/Users/thrisham/Desktop/cobol_code/mainframe_final/gmsadmin-git/MortgageApplication'
+----------------------------------------
+2025-01-27 10:20:30 - File 'hello.cbl' not found in repository 'gmsadmin-git/MortgageApplication'.
+----------------------------------------
+2025-01-27 10:22:31 - Installing extension: IBM.zopeneditor
+----------------------------------------
+2025-01-27 10:22:32 - Extension IBM.zopeneditor installed successfully.
+----------------------------------------
+2025-01-27 10:22:32 - Extension ms-vscode-remote.remote-ssh is already installed.
+----------------------------------------
+2025-01-27 10:22:33 - Repository cloned successfully to /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication.
+----------------------------------------
+2025-01-27 10:22:34 - Latest changes pulled successfully.
+----------------------------------------
+2025-01-27 10:22:34 - Searching for file 'hello.cbl' in repository '/Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication'
+----------------------------------------
+2025-01-27 10:22:34 - File found: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-01-27 10:22:34 - File opened successfully in VSCode: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-01-27 10:28:43 - Installing extension: IBM.zopeneditor
+----------------------------------------
+2025-01-27 10:28:44 - Extension IBM.zopeneditor installed successfully.
+----------------------------------------
+2025-01-27 10:28:44 - Extension ms-vscode-remote.remote-ssh is already installed.
+----------------------------------------
+2025-01-27 10:28:45 - Error cloning repository: Command '['git', 'clone', 'https://github.com/Thrisha020//Thrisha020/MortgageApplication.git', '/Users/thrisham/Desktop/cobol_code/mainframe_final/Thrisha020/MortgageApplication']' returned non-zero exit status 128.
+----------------------------------------
+2025-01-27 10:28:45 - Folder '/Users/thrisham/Desktop/cobol_code/mainframe_final/Thrisha020/MortgageApplication' exists but is not a git repository.
+----------------------------------------
+2025-01-27 10:28:45 - Searching for file 'hello.cbl' in repository '/Users/thrisham/Desktop/cobol_code/mainframe_final/Thrisha020/MortgageApplication'
+----------------------------------------
+2025-01-27 10:28:45 - File 'hello.cbl' not found in repository '/Users/thrisham/Desktop/cobol_code/mainframe_final/Thrisha020/MortgageApplication'
+----------------------------------------
+2025-01-27 10:28:45 - File 'hello.cbl' not found in repository 'Thrisha020/MortgageApplication'.
+----------------------------------------
+2025-01-27 10:31:58 - Extension IBM.zopeneditor installed successfully.
+----------------------------------------
+2025-01-27 10:31:58 - Repository already cloned at /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication. Pulling latest changes...
+----------------------------------------
+2025-01-27 10:31:59 - Latest changes pulled successfully.
+----------------------------------------
+2025-01-27 10:31:59 - Starting process for repository: MortgageApplication at https://github.com/Thrisha020/
+----------------------------------------
+2025-01-27 10:31:59 - Local repository path: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication
+----------------------------------------
+2025-01-27 10:31:59 - Searching for file 'hello.cbl' in repository '/Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication'
+----------------------------------------
+2025-01-27 10:31:59 - File found: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-01-27 10:31:59 - File located: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/MortgageApplication/cobol/hello.cbl. Attempting to open in VSCode.
+----------------------------------------
+2025-01-27 10:31:59 - Attempting to open file in VSCode: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-01-27 10:31:59 - File opened successfully in VSCode: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-01-27 10:33:33 - Extension IBM.zopeneditor installed successfully.
+----------------------------------------
+2025-01-27 10:33:33 - Repository already cloned at /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication. Pulling latest changes...
+----------------------------------------
+2025-01-27 10:33:34 - Latest changes pulled successfully.
+----------------------------------------
+2025-01-27 10:33:34 - Starting process for repository: MortgageApplication at https://github.com/Thrisha020/
+----------------------------------------
+2025-01-27 10:33:34 - Local repository path: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication
+----------------------------------------
+2025-01-27 10:33:34 - Searching for file 'hello.cbl' in repository '/Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication'
+----------------------------------------
+2025-01-27 10:33:34 - File found: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-01-27 10:33:34 - File located: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/MortgageApplication/cobol/hello.cbl. Attempting to open in VSCode.
+----------------------------------------
+2025-01-27 10:33:34 - Attempting to open file in VSCode: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-01-27 10:33:34 - File opened successfully in VSCode: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-01-27 10:48:55 - Installing extension: IBM.zopeneditor
+----------------------------------------
+2025-01-27 10:48:56 - Extension IBM.zopeneditor installed successfully.
+----------------------------------------
+2025-01-27 10:48:56 - Extension ms-vscode-remote.remote-ssh is already installed.
+----------------------------------------
+2025-01-27 10:48:56 - Cloning repository from https://github.com/Thrisha020//MortgageApplication.git to /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication...
+----------------------------------------
+2025-01-27 10:48:57 - Repository cloned successfully to /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication.
+----------------------------------------
+2025-01-27 10:48:57 - Repository already cloned at /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication. Pulling latest changes...
+----------------------------------------
+2025-01-27 10:48:58 - Latest changes pulled successfully.
+----------------------------------------
+2025-01-27 10:48:58 - Searching for file 'hello.cbl' in repository '/Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication'
+----------------------------------------
+2025-01-27 10:48:58 - File found: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-01-27 10:48:58 - Attempting to open file in VSCode: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-01-27 10:48:58 - File opened successfully in VSCode: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-01-27 10:53:54 - Installing extension: IBM.zopeneditor
+----------------------------------------
+2025-01-27 10:53:55 - Extension IBM.zopeneditor installed successfully.
+----------------------------------------
+2025-01-27 10:53:55 - Repository already cloned at /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication. Pulling latest changes...
+----------------------------------------
+2025-01-27 10:53:55 - Latest changes pulled successfully.
+----------------------------------------
+2025-01-27 10:53:55 - Searching for file 'hello.cbl' in repository '/Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication'
+----------------------------------------
+2025-01-27 10:53:55 - File found: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-01-27 10:53:55 - Attempting to open file in VSCode: File found: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-01-27 10:53:56 - File opened successfully in VSCode: File found: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-01-27 11:36:36 - Repository already cloned at /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication. Pulling latest changes...
+----------------------------------------
+2025-01-27 11:36:37 - Latest changes pulled successfully.
+----------------------------------------
+2025-01-27 11:36:37 - Starting process for repository: MortgageApplication at https://github.com/Thrisha020/
+----------------------------------------
+2025-01-27 11:36:37 - Local repository path: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication
+----------------------------------------
+2025-01-27 11:36:37 - Searching for file 'hello.cbl' in repository '/Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication'
+----------------------------------------
+2025-01-27 11:36:37 - File found: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-01-27 11:36:37 - File located: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/MortgageApplication/cobol/hello.cbl. Attempting to open in VSCode.
+----------------------------------------
+2025-01-27 11:36:37 - Attempting to open file in VSCode: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-01-27 11:36:37 - File opened successfully in VSCode: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-01-27 11:36:37 - None
+----------------------------------------
+2025-01-27 12:47:30 - Extension IBM.zopeneditor installed successfully.
+----------------------------------------
+2025-01-27 12:47:31 - Extension IBM.zopeneditor is still not installed.
+----------------------------------------
+2025-01-27 12:47:31 - Extension ms-vscode-remote.remote-ssh is installed and verified.
+----------------------------------------
+2025-01-27 12:47:31 - Repository already cloned at /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication. Pulling latest changes...
+----------------------------------------
+2025-01-27 12:47:32 - Latest changes pulled successfully.
+----------------------------------------
+2025-01-27 12:47:32 - Starting process for repository: MortgageApplication at https://github.com/Thrisha020/
+----------------------------------------
+2025-01-27 12:47:32 - Local repository path: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication
+----------------------------------------
+2025-01-27 12:47:32 - Searching for file 'hello.cbl' in repository '/Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication'
+----------------------------------------
+2025-01-27 12:47:32 - File found: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-01-27 12:47:32 - File located: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/MortgageApplication/cobol/hello.cbl. Attempting to open in VSCode.
+----------------------------------------
+2025-01-27 12:47:32 - Attempting to open file in VSCode: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-01-27 12:47:32 - File opened successfully in VSCode: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-01-27 12:47:32 - Successfully opened: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-01-27 17:18:33 - Extension IBM.zopeneditor installed successfully.
+----------------------------------------
+2025-01-27 17:18:33 - Extension IBM.zopeneditor is still not installed.
+----------------------------------------
+2025-01-27 17:18:33 - Extension ms-vscode-remote.remote-ssh is installed and verified.
+----------------------------------------
+2025-01-27 17:18:33 - Repository already cloned at /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication. Pulling latest changes...
+----------------------------------------
+2025-01-27 17:18:35 - Latest changes pulled successfully.
+----------------------------------------
+2025-01-27 17:18:35 - Starting process for repository: MortgageApplication at https://github.com/Thrisha020/
+----------------------------------------
+2025-01-27 17:18:35 - Local repository path: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication
+----------------------------------------
+2025-01-27 17:18:35 - Searching for file 'hello.cbl' in repository '/Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication'
+----------------------------------------
+2025-01-27 17:18:35 - File found: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-01-27 17:18:35 - File located: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/MortgageApplication/cobol/hello.cbl. Attempting to open in VSCode.
+----------------------------------------
+2025-01-27 17:18:35 - Attempting to open file in VSCode: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-01-27 17:18:35 - File opened successfully in VSCode: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-01-27 17:18:35 - Successfully opened: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-02-07 10:50:05 - Extension IBM.zopeneditor installed successfully.
+----------------------------------------
+2025-02-07 10:50:05 - Extension IBM.zopeneditor is still not installed.
+----------------------------------------
+2025-02-07 10:50:05 - Extension ms-vscode-remote.remote-ssh is installed and verified.
+----------------------------------------
+2025-02-07 10:50:05 - Repository already cloned at /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication. Pulling latest changes...
+----------------------------------------
+2025-02-07 10:50:07 - Latest changes pulled successfully.
+----------------------------------------
+2025-02-07 10:50:07 - Starting process for repository: MortgageApplication at https://github.com/Thrisha020/
+----------------------------------------
+2025-02-07 10:50:07 - Local repository path: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication
+----------------------------------------
+2025-02-07 10:50:07 - Searching for file 'hello.cbl' in repository '/Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication'
+----------------------------------------
+2025-02-07 10:50:07 - File found: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-02-07 10:50:07 - File located: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/cobol/hello.cbl. Attempting to open in VSCode.
+----------------------------------------
+2025-02-07 10:50:07 - Attempting to open file in VSCode: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-02-07 10:50:07 - File opened successfully in VSCode: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-02-07 10:50:07 - Successfully opened: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-02-07 11:48:27 - Extension IBM.zopeneditor is not installed. Installing...
+----------------------------------------
+2025-02-07 11:48:28 - Extension IBM.zopeneditor installed successfully.
+----------------------------------------
+2025-02-07 11:48:28 - Extension ms-vscode-remote.remote-ssh is already installed.
+----------------------------------------
+2025-02-07 11:48:29 - Extension IBM.zopeneditor is still not installed.
+----------------------------------------
+2025-02-07 11:48:29 - Extension ms-vscode-remote.remote-ssh is installed and verified.
+----------------------------------------
+2025-02-07 11:48:29 - Cloning repository from https://github.com/Thrisha020//MortgageApplication.git to /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication...
+----------------------------------------
+2025-02-07 11:48:30 - Repository cloned successfully to /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication.
+----------------------------------------
+2025-02-07 11:48:30 - Repository already cloned at /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication. Pulling latest changes...
+----------------------------------------
+2025-02-07 11:48:31 - Latest changes pulled successfully.
+----------------------------------------
+2025-02-07 11:48:31 - Starting process for repository: MortgageApplication at https://github.com/Thrisha020/
+----------------------------------------
+2025-02-07 11:48:31 - Local repository path: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication
+----------------------------------------
+2025-02-07 11:48:31 - Searching for file 'hello.cbl' in repository '/Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication'
+----------------------------------------
+2025-02-07 11:48:31 - File found: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-02-07 11:48:31 - File located: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/MortgageApplication/cobol/hello.cbl. Attempting to open in VSCode.
+----------------------------------------
+2025-02-07 11:48:31 - Attempting to open file in VSCode: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-02-07 11:48:31 - File opened successfully in VSCode: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-02-07 11:48:31 - Successfully opened: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-02-07 11:49:25 - Extension IBM.zopeneditor is not installed. Installing...
+----------------------------------------
+2025-02-07 11:49:33 - Extension IBM.zopeneditor installed successfully.
+----------------------------------------
+2025-02-07 11:49:33 - Extension ms-vscode-remote.remote-ssh is already installed.
+----------------------------------------
+2025-02-07 11:49:34 - Extension IBM.zopeneditor is still not installed.
+----------------------------------------
+2025-02-07 11:49:34 - Extension ms-vscode-remote.remote-ssh is installed and verified.
+----------------------------------------
+2025-02-07 11:49:34 - Repository already cloned at /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication. Pulling latest changes...
+----------------------------------------
+2025-02-07 11:49:34 - Latest changes pulled successfully.
+----------------------------------------
+2025-02-07 11:49:34 - Starting process for repository: MortgageApplication at https://github.com/Thrisha020/
+----------------------------------------
+2025-02-07 11:49:34 - Local repository path: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication
+----------------------------------------
+2025-02-07 11:49:34 - Searching for file 'hello.cbl' in repository '/Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication'
+----------------------------------------
+2025-02-07 11:49:34 - File found: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-02-07 11:49:34 - File located: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/MortgageApplication/cobol/hello.cbl. Attempting to open in VSCode.
+----------------------------------------
+2025-02-07 11:49:34 - Attempting to open file in VSCode: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-02-07 11:49:35 - File opened successfully in VSCode: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-02-07 11:49:35 - Successfully opened: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-02-07 12:27:34 - Extension IBM.zopeneditor is not installed. Installing...
+----------------------------------------
+2025-02-07 12:27:35 - Extension IBM.zopeneditor installed successfully.
+----------------------------------------
+2025-02-07 12:27:35 - Extension ms-vscode-remote.remote-ssh is already installed.
+----------------------------------------
+2025-02-07 12:27:35 - Extension IBM.zopeneditor is still not installed.
+----------------------------------------
+2025-02-07 12:27:35 - Extension ms-vscode-remote.remote-ssh is installed and verified.
+----------------------------------------
+2025-02-07 12:27:35 - Cloning repository from https://github.com/Thrisha020//MortgageApplication.git to /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication...
+----------------------------------------
+2025-02-07 12:27:36 - Repository cloned successfully to /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication.
+----------------------------------------
+2025-02-07 12:27:36 - Repository already cloned at /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication. Pulling latest changes...
+----------------------------------------
+2025-02-07 12:27:37 - Latest changes pulled successfully.
+----------------------------------------
+2025-02-07 12:27:37 - Starting process for repository: MortgageApplication at https://github.com/Thrisha020/
+----------------------------------------
+2025-02-07 12:27:37 - Local repository path: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication
+----------------------------------------
+2025-02-07 12:27:37 - Searching for file 'hello.cbl' in repository '/Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication'
+----------------------------------------
+2025-02-07 12:27:37 - File found: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-02-07 12:27:37 - File located: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/MortgageApplication/cobol/hello.cbl. Attempting to open in VSCode.
+----------------------------------------
+2025-02-07 12:27:37 - Attempting to open file in VSCode: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-02-07 12:27:37 - File opened successfully in VSCode: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-02-07 12:27:37 - Successfully opened: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-02-07 13:00:15 - Extension IBM.zopeneditor is not installed. Installing...
+----------------------------------------
+2025-02-07 13:00:16 - Extension IBM.zopeneditor installed successfully.
+----------------------------------------
+2025-02-07 13:00:16 - Extension ms-vscode-remote.remote-ssh is already installed.
+----------------------------------------
+2025-02-07 13:00:16 - Extension IBM.zopeneditor is still not installed.
+----------------------------------------
+2025-02-07 13:00:16 - Extension ms-vscode-remote.remote-ssh is installed and verified.
+----------------------------------------
+2025-02-07 13:00:16 - Repository already cloned at /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication. Pulling latest changes...
+----------------------------------------
+2025-02-07 13:00:17 - Latest changes pulled successfully.
+----------------------------------------
+2025-02-07 13:00:17 - Starting process for repository: MortgageApplication at https://github.com/Thrisha020/
+----------------------------------------
+2025-02-07 13:00:17 - Local repository path: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication
+----------------------------------------
+2025-02-07 13:00:17 - Searching for file 'hello.cbl' in repository '/Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication'
+----------------------------------------
+2025-02-07 13:00:17 - File found: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-02-07 13:00:17 - File located: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/MortgageApplication/cobol/hello.cbl. Attempting to open in VSCode.
+----------------------------------------
+2025-02-07 13:00:17 - Attempting to open file in VSCode: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-02-07 13:00:17 - File opened successfully in VSCode: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-02-07 13:00:17 - Successfully opened: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-02-07 13:00:29 - Extension IBM.zopeneditor is not installed. Installing...
+----------------------------------------
+2025-02-07 13:00:30 - Extension IBM.zopeneditor installed successfully.
+----------------------------------------
+2025-02-07 13:00:30 - Extension ms-vscode-remote.remote-ssh is already installed.
+----------------------------------------
+2025-02-07 13:00:30 - Extension IBM.zopeneditor is still not installed.
+----------------------------------------
+2025-02-07 13:00:30 - Extension ms-vscode-remote.remote-ssh is installed and verified.
+----------------------------------------
+2025-02-07 13:00:30 - Cloning repository from https://github.com/Thrisha020//MortgageApplication.git to /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication...
+----------------------------------------
+2025-02-07 13:00:32 - Repository cloned successfully to /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication.
+----------------------------------------
+2025-02-07 13:00:32 - Repository already cloned at /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication. Pulling latest changes...
+----------------------------------------
+2025-02-07 13:00:32 - Latest changes pulled successfully.
+----------------------------------------
+2025-02-07 13:00:32 - Starting process for repository: MortgageApplication at https://github.com/Thrisha020/
+----------------------------------------
+2025-02-07 13:00:32 - Local repository path: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication
+----------------------------------------
+2025-02-07 13:00:32 - Searching for file 'hello.cbl' in repository '/Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication'
+----------------------------------------
+2025-02-07 13:00:32 - File found: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-02-07 13:00:32 - File located: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/MortgageApplication/cobol/hello.cbl. Attempting to open in VSCode.
+----------------------------------------
+2025-02-07 13:00:32 - Attempting to open file in VSCode: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-02-07 13:00:32 - File opened successfully in VSCode: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-02-07 13:00:32 - Successfully opened: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-02-07 13:04:48 - Extension IBM.zopeneditor is not installed. Installing...
+----------------------------------------
+2025-02-07 13:04:50 - Extension IBM.zopeneditor installed successfully.
+----------------------------------------
+2025-02-07 13:04:50 - Extension ms-vscode-remote.remote-ssh is already installed.
+----------------------------------------
+2025-02-07 13:04:50 - Extension IBM.zopeneditor is still not installed.
+----------------------------------------
+2025-02-07 13:04:50 - Extension ms-vscode-remote.remote-ssh is installed and verified.
+----------------------------------------
+2025-02-07 13:04:50 - Repository already cloned at /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication. Pulling latest changes...
+----------------------------------------
+2025-02-07 13:04:52 - Latest changes pulled successfully.
+----------------------------------------
+2025-02-07 13:04:52 - Starting process for repository: MortgageApplication at https://github.com/Thrisha020/
+----------------------------------------
+2025-02-07 13:04:52 - Local repository path: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication
+----------------------------------------
+2025-02-07 13:04:52 - Searching for file 'hello.cbl' in repository '/Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication'
+----------------------------------------
+2025-02-07 13:04:52 - File found: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-02-07 13:04:52 - File located: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/MortgageApplication/cobol/hello.cbl. Attempting to open in VSCode.
+----------------------------------------
+2025-02-07 13:04:52 - Attempting to open file in VSCode: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-02-07 13:04:52 - File opened successfully in VSCode: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-02-07 13:04:52 - Successfully opened: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-02-10 10:15:36 - SSH connection failed: [Errno 60] Operation timed out
+----------------------------------------
+2025-02-10 10:17:59 - SSH connection failed: [Errno 60] Operation timed out
+----------------------------------------
+2025-02-10 10:24:41 - Connection successful!
+----------------------------------------
+2025-02-10 10:24:41 - Mainframe working directory: /u/adcdmst
+----------------------------------------
+2025-02-10 10:24:42 - Ensuring workspace directory: /u/adcdmst/sandbox1
+----------------------------------------
+2025-02-10 10:24:43 - Ensuring application directory: /u/adcdmst/sandbox1/MortgageApplication
+----------------------------------------
+2025-02-10 10:24:52 - Error during repository setup: Clone error: Cloning into '/u/adcdmst/sandbox1/MortgageApplication'...
+----------------------------------------
+2025-02-10 10:24:52 - Searching for 'hello.cbl' in '/u/adcdmst/sandbox1/MortgageApplication'...
+----------------------------------------
+2025-02-10 10:24:52 - Executing: find /u/adcdmst/sandbox1/MortgageApplication -type f -name "hello.cbl"
+----------------------------------------
+2025-02-10 10:24:53 - Ensuring output directory exists: /u/adcdmst/outdir
+----------------------------------------
+2025-02-10 10:36:44 - Connection successful!
+----------------------------------------
+2025-02-10 10:36:44 - Mainframe working directory: /u/adcdmst
+----------------------------------------
+2025-02-10 10:36:45 - Ensuring workspace directory: /u/adcdmst/sandbox1
+----------------------------------------
+2025-02-10 10:36:45 - Ensuring application directory: /u/adcdmst/sandbox1/MortgageApplication
+----------------------------------------
+2025-02-10 10:36:47 - Repository already exists at /u/adcdmst/sandbox1/MortgageApplication. Pulling latest changes...
+----------------------------------------
+2025-02-10 10:36:54 - Latest changes pulled successfully.
+----------------------------------------
+2025-02-10 10:36:54 - Searching for 'hello.cbl' in '/u/adcdmst/sandbox1/MortgageApplication'...
+----------------------------------------
+2025-02-10 10:36:54 - Executing: find /u/adcdmst/sandbox1/MortgageApplication -type f -name "hello.cbl"
+----------------------------------------
+2025-02-10 10:36:55 - Ensuring output directory exists: /u/adcdmst/outdir
+----------------------------------------
+2025-02-10 10:36:55 - Executing USS Command: . ~/.profile && /usr/lpp/IBM/dbb/bin/groovyz -DBB_DAEMON_HOST 127.0.0.1 -DBB_DAEMON_PORT 7380 /tmp/ibmzappbuild/dbb-zappbuild/build.groovy --sourceDir /u/adcdmst/sandbox1 --workDir /u/adcdmst/outdir --hlq ADCDMST.MORTGAGE --application MortgageApplication MortgageApplication/cobol/hello.cbl 
+----------------------------------------
+2025-02-10 10:37:07 - Build succeeded.
+----------------------------------------
+2025-02-10 11:40:02 - Connection successful!
+----------------------------------------
+2025-02-10 11:40:02 - Mainframe working directory: /u/gmszfs
+----------------------------------------
+2025-02-10 11:40:03 - Ensuring workspace directory: /u/gmszfs/sandbox
+----------------------------------------
+2025-02-10 11:40:03 - Ensuring application directory: /u/gmszfs/sandbox/MortgageApplication
+----------------------------------------
+2025-02-10 11:40:05 - Repository already exists at /u/gmszfs/sandbox/MortgageApplication. Pulling latest changes...
+----------------------------------------
+2025-02-10 11:40:11 - Latest changes pulled successfully.
+----------------------------------------
+2025-02-10 11:40:11 - Searching for 'hello.cbl' in '/u/gmszfs/sandbox/MortgageApplication'...
+----------------------------------------
+2025-02-10 11:40:11 - Executing: find /u/gmszfs/sandbox/MortgageApplication -type f -name "hello.cbl"
+----------------------------------------
+2025-02-10 11:40:12 - Ensuring output directory exists: /u/gmszfs/outdir
+----------------------------------------
+2025-02-10 11:40:13 - Executing USS Command: . ~/.profile && /usr/lpp/IBM/dbb/bin/groovyz -DBB_DAEMON_HOST 127.0.0.1 -DBB_DAEMON_PORT 7380 /tmp/ibmzappbuild/dbb-zappbuild/build.groovy --sourceDir /u/gmszfs/sandbox --workDir /u/gmszfs/outdir --hlq ADCDMST.MORTGAGE --application MortgageApplication MortgageApplication/cobol/hello.cbl 
+----------------------------------------
+2025-02-10 11:40:22 - Build succeeded.
+----------------------------------------
+2025-02-10 12:02:09 - Connection successful!
+----------------------------------------
+2025-02-10 12:02:10 - Mainframe working directory: /u/gmszfs
+----------------------------------------
+2025-02-10 12:02:11 - Ensuring workspace directory: /u/gmszfs/sandbox
+----------------------------------------
+2025-02-10 12:02:11 - Ensuring application directory: /u/gmszfs/sandbox/MortgageApplication
+----------------------------------------
+2025-02-10 12:02:12 - Repository already exists at /u/gmszfs/sandbox/MortgageApplication. Pulling latest changes...
+----------------------------------------
+2025-02-10 12:02:19 - Latest changes pulled successfully.
+----------------------------------------
+2025-02-10 12:02:19 - Searching for 'hello.cbl' in '/u/gmszfs/sandbox/MortgageApplication'...
+----------------------------------------
+2025-02-10 12:02:19 - Executing: find /u/gmszfs/sandbox/MortgageApplication -type f -name "hello.cbl"
+----------------------------------------
+2025-02-10 12:02:20 - Ensuring output directory exists: /u/gmszfs/outdir
+----------------------------------------
+2025-02-10 12:02:21 - Executing USS Command: . ~/.profile && /usr/lpp/IBM/dbb/bin/groovyz -DBB_DAEMON_HOST 127.0.0.1 -DBB_DAEMON_PORT 7380 /tmp/ibmzappbuild/dbb-zappbuild/build.groovy --sourceDir /u/gmszfs/sandbox --workDir /u/gmszfs/outdir --hlq ADCDMST.MORTGAGE --application MortgageApplication MortgageApplication/cobol/hello.cbl 
+----------------------------------------
+2025-02-10 12:02:30 - Build succeeded.
+----------------------------------------
+2025-02-10 20:26:23 - Connection successful!
+----------------------------------------
+2025-02-10 20:26:23 - Mainframe working directory: /u/gmszfs
+----------------------------------------
+2025-02-10 20:26:24 - Ensuring workspace directory: /u/gmszfs/sandbox
+----------------------------------------
+2025-02-10 20:26:24 - Ensuring application directory: /u/gmszfs/sandbox/MortgageApplication
+----------------------------------------
+2025-02-10 20:26:26 - Repository already exists at /u/gmszfs/sandbox/MortgageApplication. Pulling latest changes...
+----------------------------------------
+2025-02-10 20:26:34 - Error during repository setup: Pull error: From https://github.com/gmsadmin-git/MortgageApplication
+   ecc1c36..b99545a  feature/Test-epsmtcom -> origin/feature/Test-epsmtcom
+----------------------------------------
+2025-02-10 20:26:34 - Searching for 'hello.cbl' in '/u/gmszfs/sandbox/MortgageApplication'...
+----------------------------------------
+2025-02-10 20:26:34 - Executing: find /u/gmszfs/sandbox/MortgageApplication -type f -name "hello.cbl"
+----------------------------------------
+2025-02-10 20:26:35 - Ensuring output directory exists: /u/gmszfs/outdir
+----------------------------------------
+2025-02-10 20:26:36 - Executing USS Command: . ~/.profile && /usr/lpp/IBM/dbb/bin/groovyz -DBB_DAEMON_HOST 127.0.0.1 -DBB_DAEMON_PORT 7380 /tmp/ibmzappbuild/dbb-zappbuild/build.groovy --sourceDir /u/gmszfs/sandbox --workDir /u/gmszfs/outdir --hlq ADCDMST.MORTGAGE --application MortgageApplication MortgageApplication/cobol/hello.cbl 
+----------------------------------------
+2025-02-10 20:26:50 - Build succeeded.
+----------------------------------------
+2025-02-11 17:04:42 - Extension IBM.zopeneditor is not installed. Installing...
+----------------------------------------
+2025-02-11 17:04:42 - Extension IBM.zopeneditor installed successfully.
+----------------------------------------
+2025-02-11 17:04:42 - Extension ms-vscode-remote.remote-ssh is already installed.
+----------------------------------------
+2025-02-11 17:04:43 - Extension IBM.zopeneditor is still not installed.
+----------------------------------------
+2025-02-11 17:04:43 - Extension ms-vscode-remote.remote-ssh is installed and verified.
+----------------------------------------
+2025-02-11 17:04:43 - Cloning repository from https://github.com/Thrisha020/MortgageApplication.git to /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication...
+----------------------------------------
+2025-02-11 17:04:44 - Repository cloned successfully to /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication.
+----------------------------------------
+2025-02-11 17:04:44 - Repository already cloned at /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication. Pulling latest changes...
+----------------------------------------
+2025-02-11 17:04:45 - Latest changes pulled successfully.
+----------------------------------------
+2025-02-11 17:04:45 - Starting process for repository: MortgageApplication at https://github.com/Thrisha020/
+----------------------------------------
+2025-02-11 17:04:45 - Local repository path: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication
+----------------------------------------
+2025-02-11 17:04:45 - Searching for file 'hello.cbl' in repository '/Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication'
+----------------------------------------
+2025-02-11 17:04:45 - File found: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-02-11 17:04:45 - File located: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/MortgageApplication/cobol/hello.cbl. Attempting to open in VSCode.
+----------------------------------------
+2025-02-11 17:04:45 - Attempting to open file in VSCode: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-02-11 17:04:46 - File opened successfully in VSCode: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-02-11 17:04:46 - Successfully opened: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-02-11 17:05:45 - Extension IBM.zopeneditor is not installed. Installing...
+----------------------------------------
+2025-02-11 17:05:46 - Extension IBM.zopeneditor installed successfully.
+----------------------------------------
+2025-02-11 17:05:46 - Extension ms-vscode-remote.remote-ssh is already installed.
+----------------------------------------
+2025-02-11 17:05:47 - Extension IBM.zopeneditor is still not installed.
+----------------------------------------
+2025-02-11 17:05:47 - Extension ms-vscode-remote.remote-ssh is installed and verified.
+----------------------------------------
+2025-02-11 17:05:47 - Repository already cloned at /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication. Pulling latest changes...
+----------------------------------------
+2025-02-11 17:05:48 - Latest changes pulled successfully.
+----------------------------------------
+2025-02-11 17:05:48 - Starting process for repository: MortgageApplication at https://github.com/gmsadmin-git/
+----------------------------------------
+2025-02-11 17:05:48 - Local repository path: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication
+----------------------------------------
+2025-02-11 17:05:48 - Searching for file 'hello.cbl' in repository '/Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication'
+----------------------------------------
+2025-02-11 17:05:48 - File found: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-02-11 17:05:48 - File located: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/MortgageApplication/cobol/hello.cbl. Attempting to open in VSCode.
+----------------------------------------
+2025-02-11 17:05:48 - Attempting to open file in VSCode: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-02-11 17:05:48 - File opened successfully in VSCode: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-02-11 17:05:48 - Successfully opened: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-02-11 17:06:15 - Extension IBM.zopeneditor is not installed. Installing...
+----------------------------------------
+2025-02-11 17:06:16 - Extension IBM.zopeneditor installed successfully.
+----------------------------------------
+2025-02-11 17:06:16 - Extension ms-vscode-remote.remote-ssh is already installed.
+----------------------------------------
+2025-02-11 17:06:16 - Extension IBM.zopeneditor is still not installed.
+----------------------------------------
+2025-02-11 17:06:16 - Extension ms-vscode-remote.remote-ssh is installed and verified.
+----------------------------------------
+2025-02-11 17:06:16 - Cloning repository from https://github.com/gmsadmin-git/MortgageApplication.git to /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication...
+----------------------------------------
+2025-02-11 17:06:17 - Error cloning repository: Command '['git', 'clone', '-b', 'feature_branch', 'https://github.com/gmsadmin-git/MortgageApplication.git', '/Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication']' returned non-zero exit status 128.
+----------------------------------------
+2025-02-11 17:06:17 - Folder '/Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication' exists but is not a git repository.
+----------------------------------------
+2025-02-11 17:06:17 - Starting process for repository: MortgageApplication at https://github.com/gmsadmin-git/
+----------------------------------------
+2025-02-11 17:06:17 - Local repository path: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication
+----------------------------------------
+2025-02-11 17:06:17 - Searching for file 'hello.cbl' in repository '/Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication'
+----------------------------------------
+2025-02-11 17:06:17 - File 'hello.cbl' not found in repository '/Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication'
+----------------------------------------
+2025-02-11 17:06:17 - File 'hello.cbl' not found in repository 'MortgageApplication'.
+----------------------------------------
+2025-02-11 17:08:44 - Extension IBM.zopeneditor is not installed. Installing...
+----------------------------------------
+2025-02-11 17:08:45 - Extension IBM.zopeneditor installed successfully.
+----------------------------------------
+2025-02-11 17:08:45 - Extension ms-vscode-remote.remote-ssh is already installed.
+----------------------------------------
+2025-02-11 17:08:45 - Extension IBM.zopeneditor is still not installed.
+----------------------------------------
+2025-02-11 17:08:45 - Extension ms-vscode-remote.remote-ssh is installed and verified.
+----------------------------------------
+2025-02-11 17:08:45 - Cloning repository from https://github.com/gmsadmin-git/MortgageApplication.git to /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication...
+----------------------------------------
+2025-02-11 17:08:47 - Repository cloned successfully to /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication.
+----------------------------------------
+2025-02-11 17:08:47 - Repository already cloned at /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication. Pulling latest changes...
+----------------------------------------
+2025-02-11 17:08:47 - Latest changes pulled successfully.
+----------------------------------------
+2025-02-11 17:08:47 - Starting process for repository: MortgageApplication at https://github.com/gmsadmin-git/
+----------------------------------------
+2025-02-11 17:08:47 - Local repository path: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication
+----------------------------------------
+2025-02-11 17:08:47 - Searching for file 'hello.cbl' in repository '/Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication'
+----------------------------------------
+2025-02-11 17:08:47 - File found: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-02-11 17:08:47 - File located: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/cobol/hello.cbl. Attempting to open in VSCode.
+----------------------------------------
+2025-02-11 17:08:47 - Attempting to open file in VSCode: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-02-11 17:08:48 - File opened successfully in VSCode: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-02-11 17:08:48 - Successfully opened: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-02-12 09:42:29 - Starting process for repository: MortgageApplication
+----------------------------------------
+2025-02-12 09:42:29 - Repository MortgageApplication already exists at /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication
+----------------------------------------
+2025-02-12 09:42:29 - Searching for file 'hello.cbl' in repository '/Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication'
+----------------------------------------
+2025-02-12 09:42:29 - File found: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-02-12 09:42:29 - File hello.cbl found in repository
+----------------------------------------
+2025-02-12 09:42:29 - Currently on branch: Feature/Demo
+----------------------------------------
+2025-02-12 09:42:29 - Checking for untracked files
+----------------------------------------
+2025-02-12 09:42:29 - No changes to stage
+----------------------------------------
+2025-02-12 09:42:43 - Starting process for repository: MortgageApplication
+----------------------------------------
+2025-02-12 09:42:43 - Repository MortgageApplication already exists at /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication
+----------------------------------------
+2025-02-12 09:42:43 - Searching for file 'hello.cbl' in repository '/Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication'
+----------------------------------------
+2025-02-12 09:42:43 - File found: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-02-12 09:42:43 - File hello.cbl found in repository
+----------------------------------------
+2025-02-12 09:42:43 - Currently on branch: Feature/Demo
+----------------------------------------
+2025-02-12 09:42:43 - Checking for untracked files
+----------------------------------------
+2025-02-12 09:42:43 - Staging all changes
+----------------------------------------
+2025-02-12 09:42:43 - Staging and committing changes
+----------------------------------------
+2025-02-12 09:42:43 - Committing changes with message: frontEnd
+----------------------------------------
+2025-02-12 09:42:43 - Pushing changes to the remote repository
+----------------------------------------
+2025-02-12 09:42:44 - Error during Git operations: Command '['git', '-C', '/Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication', 'push', 'origin', 'Feature/Demo']' returned non-zero exit status 1.
+----------------------------------------
+2025-02-12 10:00:21 - Starting process for repository: MortgageApplication
+----------------------------------------
+2025-02-12 10:00:21 - Repository MortgageApplication already exists at /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication
+----------------------------------------
+2025-02-12 10:00:21 - Searching for file 'hello.cbl' in repository '/Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication'
+----------------------------------------
+2025-02-12 10:00:21 - File found: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-02-12 10:00:21 - File hello.cbl found in repository
+----------------------------------------
+2025-02-12 10:00:21 - Currently on branch: Feature/Demo
+----------------------------------------
+2025-02-12 10:00:21 - Checking for untracked files
+----------------------------------------
+2025-02-12 10:00:21 - Staging all changes
+----------------------------------------
+2025-02-12 10:00:21 - Staging and committing changes
+----------------------------------------
+2025-02-12 10:00:21 - Committing changes with message: frontEnd
+----------------------------------------
+2025-02-12 10:00:21 - Pushing changes to the remote repository
+----------------------------------------
+2025-02-12 10:00:23 - Changes pushed to the remote repository successfully
+----------------------------------------
+2025-02-12 12:35:42 - Starting process for repository: MortgageApplication
+----------------------------------------
+2025-02-12 12:35:42 - Repository MortgageApplication already exists at /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication
+----------------------------------------
+2025-02-12 12:35:42 - Searching for file 'hello.cbl' in repository '/Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication'
+----------------------------------------
+2025-02-12 12:35:42 - File found: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-02-12 12:35:42 - File hello.cbl found in repository
+----------------------------------------
+2025-02-12 12:35:42 - Currently on branch: Feature/Demo
+----------------------------------------
+2025-02-12 12:35:42 - Checking for untracked files
+----------------------------------------
+2025-02-12 12:35:42 - No changes to stage
+----------------------------------------
+2025-02-12 12:36:30 - Starting process for repository: MortgageApplication
+----------------------------------------
+2025-02-12 12:36:30 - Repository MortgageApplication already exists at /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication
+----------------------------------------
+2025-02-12 12:36:30 - Searching for file 'hello.cbl' in repository '/Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication'
+----------------------------------------
+2025-02-12 12:36:30 - File found: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-02-12 12:36:30 - File hello.cbl found in repository
+----------------------------------------
+2025-02-12 12:36:30 - Currently on branch: Feature/Demo
+----------------------------------------
+2025-02-12 12:36:30 - Checking for untracked files
+----------------------------------------
+2025-02-12 12:36:30 - Staging all changes
+----------------------------------------
+2025-02-12 12:36:30 - Staging and committing changes
+----------------------------------------
+2025-02-12 12:36:30 - Committing changes with message: changedd
+----------------------------------------
+2025-02-12 12:36:30 - Pushing changes to the remote repository
+----------------------------------------
+2025-02-12 12:36:31 - Error during Git operations: Command '['git', '-C', '/Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication', 'push', 'origin', 'Feature/Demo']' returned non-zero exit status 1.
+----------------------------------------
+2025-02-12 12:38:21 - Starting process for repository: MortgageApplication
+----------------------------------------
+2025-02-12 12:38:21 - Repository MortgageApplication already exists at /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication
+----------------------------------------
+2025-02-12 12:38:21 - Searching for file 'hello.cbl' in repository '/Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication'
+----------------------------------------
+2025-02-12 12:38:21 - File found: /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication/cobol/hello.cbl
+----------------------------------------
+2025-02-12 12:38:21 - File hello.cbl found in repository
+----------------------------------------
+2025-02-12 12:38:21 - Currently on branch: Feature/Demo
+----------------------------------------
+2025-02-12 12:38:21 - Checking for untracked files
+----------------------------------------
+2025-02-12 12:38:21 - Staging all changes
+----------------------------------------
+2025-02-12 12:38:21 - Staging and committing changes
+----------------------------------------
+2025-02-12 12:38:21 - Committing changes with message: changedd
+----------------------------------------
+2025-02-12 12:38:21 - Pushing changes to the remote repository
+----------------------------------------
+2025-02-12 12:38:25 - Changes pushed to the remote repository successfully
+----------------------------------------
+2025-02-13 11:46:20 - Connection successful!
+----------------------------------------
+2025-02-13 11:46:20 - Mainframe working directory: /u/gmszfs
+----------------------------------------
+2025-02-13 11:46:21 - Ensuring workspace directory: /u/gmszfs/sandbox
+----------------------------------------
+2025-02-13 11:46:21 - Ensuring application directory: /u/gmszfs/sandbox/MortgageApplication
+----------------------------------------
+2025-02-13 11:46:23 - Repository already exists at /u/gmszfs/sandbox/MortgageApplication. Pulling latest changes...
+----------------------------------------
+2025-02-13 11:46:32 - Error during repository setup: Pull error: From https://github.com/gmsadmin-git/MortgageApplication
+   deab919..15879fe  main               -> origin/main
+   f3be979..4f92066  Feature/Demo       -> origin/Feature/Demo
+   953a048..66e0676  feature/testaiboat -> origin/feature/testaiboat
+----------------------------------------
+2025-02-13 11:46:32 - Searching for 'hello.cbl' in '/u/gmszfs/sandbox/MortgageApplication'...
+----------------------------------------
+2025-02-13 11:46:32 - Executing: find /u/gmszfs/sandbox/MortgageApplication -type f -name "hello.cbl"
+----------------------------------------
+2025-02-13 11:46:33 - Ensuring output directory exists: /u/gmszfs/outdir
+----------------------------------------
+2025-02-13 11:46:34 - Executing USS Command: . ~/.profile && /usr/lpp/IBM/dbb/bin/groovyz -DBB_DAEMON_HOST 127.0.0.1 -DBB_DAEMON_PORT 7380 /tmp/ibmzappbuild/dbb-zappbuild/build.groovy --sourceDir /u/gmszfs/sandbox --workDir /u/gmszfs/outdir --hlq ADCDMST.MORTGAGE --application MortgageApplication MortgageApplication/cobol/hello.cbl 
+----------------------------------------
+2025-02-13 11:46:43 - Build succeeded.
+----------------------------------------
+2025-02-13 12:32:36 - SSH connection failed: [Errno 60] Operation timed out
+----------------------------------------
+2025-02-13 12:33:09 - Connection successful!
+----------------------------------------
+2025-02-13 12:33:10 - Mainframe working directory: /u/gmszfs
+----------------------------------------
+2025-02-13 12:33:10 - Ensuring workspace directory: /u/gmszfs/sandbox
+----------------------------------------
+2025-02-13 12:33:11 - Ensuring application directory: /u/gmszfs/sandbox/MortgageApplication
+----------------------------------------
+2025-02-13 12:33:12 - Repository already exists at /u/gmszfs/sandbox/MortgageApplication. Pulling latest changes...
+----------------------------------------
+2025-02-13 12:33:19 - Latest changes pulled successfully.
+----------------------------------------
+2025-02-13 12:33:19 - Searching for 'hello.cbl' in '/u/gmszfs/sandbox/MortgageApplication'...
+----------------------------------------
+2025-02-13 12:33:19 - Executing: find /u/gmszfs/sandbox/MortgageApplication -type f -name "hello.cbl"
+----------------------------------------
+2025-02-13 12:33:20 - Ensuring output directory exists: /u/gmszfs/outdir
+----------------------------------------
+2025-02-13 12:33:20 - Executing USS Command: . ~/.profile && /usr/lpp/IBM/dbb/bin/groovyz -DBB_DAEMON_HOST 127.0.0.1 -DBB_DAEMON_PORT 7380 /tmp/ibmzappbuild/dbb-zappbuild/build.groovy --sourceDir /u/gmszfs/sandbox --workDir /u/gmszfs/outdir --hlq ADCDMST.MORTGAGE --application MortgageApplication MortgageApplication/cobol/hello.cbl 
+----------------------------------------
+2025-02-13 12:33:29 - Build succeeded.
+----------------------------------------
+2025-02-13 12:34:40 - Connection successful!
+----------------------------------------
+2025-02-13 12:34:41 - Mainframe working directory: /u/gmszfs
+----------------------------------------
+2025-02-13 12:34:42 - Ensuring workspace directory: /u/gmszfs/sandbox
+----------------------------------------
+2025-02-13 12:34:42 - Ensuring application directory: /u/gmszfs/sandbox/MortgageApplication
+----------------------------------------
+2025-02-13 12:34:43 - Repository already exists at /u/gmszfs/sandbox/MortgageApplication. Pulling latest changes...
+----------------------------------------
+2025-02-13 12:34:50 - Latest changes pulled successfully.
+----------------------------------------
+2025-02-13 12:34:50 - Searching for 'hello.cbl' in '/u/gmszfs/sandbox/MortgageApplication'...
+----------------------------------------
+2025-02-13 12:34:50 - Executing: find /u/gmszfs/sandbox/MortgageApplication -type f -name "hello.cbl"
+----------------------------------------
+2025-02-13 12:34:51 - Ensuring output directory exists: /u/gmszfs/outdir
+----------------------------------------
+2025-02-13 12:34:51 - Executing USS Command: . ~/.profile && /usr/lpp/IBM/dbb/bin/groovyz -DBB_DAEMON_HOST 127.0.0.1 -DBB_DAEMON_PORT 7380 /tmp/ibmzappbuild/dbb-zappbuild/build.groovy --sourceDir /u/gmszfs/sandbox --workDir /u/gmszfs/outdir --hlq ADCDMST.MORTGAGE --application MortgageApplication MortgageApplication/cobol/hello.cbl 
+----------------------------------------
+2025-02-13 12:35:00 - Build succeeded.
+----------------------------------------
+2025-02-13 13:13:35 - Connection successful!
+----------------------------------------
+2025-02-13 13:13:36 - Mainframe working directory: /u/gmszfs
+----------------------------------------
+2025-02-13 13:13:36 - Ensuring workspace directory: /u/gmszfs/sandbox
+----------------------------------------
+2025-02-13 13:13:37 - Ensuring application directory: /u/gmszfs/sandbox/gmsadmin-git/MortgageApplication
+----------------------------------------
+2025-02-13 13:13:46 - Error during repository setup: Clone error: Cloning into '/u/gmszfs/sandbox/gmsadmin-git/MortgageApplication'...
+----------------------------------------
+2025-02-13 13:13:46 - Searching for 'hello.cbl' in '/u/gmszfs/sandbox/gmsadmin-git/MortgageApplication'...
+----------------------------------------
+2025-02-13 13:13:46 - Executing: find /u/gmszfs/sandbox/gmsadmin-git/MortgageApplication -type f -name "hello.cbl"
+----------------------------------------
+2025-02-13 13:13:47 - Ensuring output directory exists: /u/gmszfs/outdir
+----------------------------------------
+2025-02-13 13:13:47 - Executing USS Command: . ~/.profile && /usr/lpp/IBM/dbb/bin/groovyz -DBB_DAEMON_HOST 127.0.0.1 -DBB_DAEMON_PORT 7380 /tmp/ibmzappbuild/dbb-zappbuild/build.groovy --sourceDir /u/gmszfs/sandbox --workDir /u/gmszfs/outdir --hlq ADCDMST.MORTGAGE --application gmsadmin-git/MortgageApplication gmsadmin-git/MortgageApplication/cobol/hello.cbl 
+----------------------------------------
+2025-02-13 13:13:58 - Build succeeded.
+----------------------------------------
+2025-02-13 13:16:58 - Connection successful!
+----------------------------------------
+2025-02-13 13:16:58 - Mainframe working directory: /u/gmszfs
+----------------------------------------
+2025-02-13 13:16:59 - Ensuring workspace directory: /u/gmszfs/sandbox
+----------------------------------------
+2025-02-13 13:16:59 - Ensuring application directory: /u/gmszfs/sandbox/gmsadmin-git/MortgageApplication
+----------------------------------------
+2025-02-13 13:17:00 - Repository already exists at /u/gmszfs/sandbox/gmsadmin-git/MortgageApplication. Pulling latest changes...
+----------------------------------------
+2025-02-13 13:17:07 - Latest changes pulled successfully.
+----------------------------------------
+2025-02-13 13:17:07 - Searching for 'hello.cbl' in '/u/gmszfs/sandbox/gmsadmin-git/MortgageApplication'...
+----------------------------------------
+2025-02-13 13:17:07 - Executing: find /u/gmszfs/sandbox/gmsadmin-git/MortgageApplication -type f -name "hello.cbl"
+----------------------------------------
+2025-02-13 13:17:08 - Ensuring output directory exists: /u/gmszfs/outdir
+----------------------------------------
+2025-02-13 13:17:08 - Executing USS Command: . ~/.profile && /usr/lpp/IBM/dbb/bin/groovyz -DBB_DAEMON_HOST 127.0.0.1 -DBB_DAEMON_PORT 7380 /tmp/ibmzappbuild/dbb-zappbuild/build.groovy --sourceDir /u/gmszfs/sandbox --workDir /u/gmszfs/outdir --hlq ADCDMST.MORTGAGE --application gmsadmin-git/MortgageApplication gmsadmin-git/MortgageApplication/cobol/hello.cbl 
+----------------------------------------
+2025-02-13 13:17:17 - Build succeeded.
+----------------------------------------
+2025-03-26 10:48:42 - Repository already cloned. Pulling latest changes...
+----------------------------------------
+2025-03-26 10:48:45 - Dernières modifications récupérées avec succès.
+----------------------------------------
+2025-03-26 10:51:58 - Repository already cloned. Pulling latest changes...
+----------------------------------------
+2025-03-26 10:52:00 - Error pulling latest changes.
+----------------------------------------
+2025-03-26 10:58:34 - Repository already cloned. Pulling latest changes...
+----------------------------------------
+2025-03-26 10:58:36 - Error pulling latest changes.
+----------------------------------------
+2025-03-26 11:08:55 - Repository already cloned at /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication. Pulling latest changes...
+----------------------------------------
+2025-03-26 11:08:56 - Error pulling latest changes: Command '['git', '-C', '/Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication', 'pull']' returned non-zero exit status 1.
+----------------------------------------
+2025-03-26 11:18:05 - Checked if /Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication is a Git repository: True
+----------------------------------------
+2025-03-26 11:18:05 - Error checking out branch 'remotes/origin/MortApp': Command '['git', '-C', '/Users/thrisham/Desktop/cobol_code/mainframe_final/MortgageApplication', 'checkout', 'remotes/origin/MortApp']' returned non-zero exit status 1.
+----------------------------------------
+2025-03-26 11:18:05 - Checked out fallback branch 'main' successfully.
+----------------------------------------
